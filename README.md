@@ -53,6 +53,7 @@ The focus is on understanding concepts, solving problems, and applying knowledge
 
 ![Python](https://img.shields.io/badge/Python-6D4AFF?style=flat-square&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-171329?style=flat-square&logo=visualstudiocode&logoColor=B9A2FF)
+![PyCharm](https://img.shields.io/badge/PyCharm-171329?style=flat-square&logo=pycharm&logoColor=B9A2FF)
 ![Git](https://img.shields.io/badge/Git-6D4AFF?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-171329?style=flat-square&logo=github&logoColor=B9A2FF)
 
@@ -60,7 +61,7 @@ The focus is on understanding concepts, solving problems, and applying knowledge
 
 <div align="center">
 
-### <span style="color:#B9A2FF">LEARN. BUILD. IMPROVE.</span>
+**<span style="color:#B9A2FF">LEARN. BUILD. IMPROVE.</span>**
 
 `A continuous journey in Python development.`
 
